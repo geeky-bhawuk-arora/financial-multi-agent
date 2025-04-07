@@ -6,3 +6,7 @@ duckduckgo-search
 packaging
 yfinance
 uvicorn
+sqlalchemy
+pgvector
+pypdf
+psycopg[binary]
