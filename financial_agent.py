@@ -42,6 +42,5 @@ multi_ai_agent = Agent(
     markdown=True,
 )
 
-# Run the agent properly
 response = multi_ai_agent.run("Summarize analyst recommendations and share the latest news for NVDA.")
 print(response)
